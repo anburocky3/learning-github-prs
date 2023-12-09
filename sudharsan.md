@@ -4,4 +4,4 @@
 
 ### Why This sudharsan.md?
 
-> We've received a task from our mentor, that we need to learn how to create a successful Pull Request also known as **"PR"**.
+> We've received a task from our mentor, that we need to learn how to create a successful Pull Request (**"PR"**).
