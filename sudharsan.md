@@ -1,6 +1,6 @@
 # Hi, This is Sudharsan
 
-> My name is Sudharsan, Computer Science & Engineering Student. Currently working as a **Full Stack Enginner Intern** at Cyberdude Networks (Pvt) Ltd.
+> My name is Sudharsan, Computer Science & Engineering Student. Currently working as a **Full Stack Engineer Intern** at Cyberdude Networks (Pvt) Ltd.
 
 ### Why This sudharsan.md?
 
