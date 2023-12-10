@@ -44,8 +44,7 @@
 
  ⏰ &emsp; I am eagerly waiting to join a team where I can show case my skill and grow more along with the team, waiting to take on the challenges on the project. <br/><br/>
 
- 📧 &emsp; Reach me anytime: muthukumari.m28197@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/muthukumarimoorthi/muthukumarimoorthi/issues)
+ 💬 &emsp; Any coding doubts reach me anytime [here](https://github.com/muthukumarimoorthi/muthukumarimoorthi/issues)
 
 </p><br/>
 
