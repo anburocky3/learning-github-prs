@@ -1,8 +1,8 @@
 <h1 >Hi 👋, I'm Kishorekumar</h1>
-<h2 >Full stack web developer intern at cyberdude network </h2>
+<h2 >Full stack web developer intern at cyberdude networks </h2>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
-- 🌱 I’m currently learning **MERN stack** and part of **cyberdude network inter**
+- 🌱 I’m currently learning **MERN stack** and part of **cyberdude networks intern**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,7 @@
 
 
 <h3>Acknowledgement</h3>
- - [@Anbuselvan Rockey](https://github.com/anburocky3) | GitHub Profile.
+ <a href = "https://github.com/anburocky3">Anbuselvan Rockey | GitHub Profile.</a>
 
 
 
