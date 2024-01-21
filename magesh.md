@@ -1,4 +1,4 @@
-# Hello, Magesh here🙋‍♀️
+# Hello, Magesh here🙋
 
 > I'm Magesh i have learned github contibutions thourgh **cyberdude networks intership live**
 
